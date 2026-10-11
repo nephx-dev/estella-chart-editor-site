@@ -2,7 +2,7 @@
 
 A community-made visual editor for creating, previewing and sharing custom Estella charts on Windows and native Linux x86_64.
 
-**[Download on itch.io](https://nephxdev.itch.io/estella-chart-editor)** · **[Join the community](https://discord.gg/P3T6wbXpkG)**
+**[Download for Windows](https://github.com/nephx-dev/estella-chart-editor-site/releases/latest/download/EstellaChartEditor-Windows.zip)** · **[Download for Linux](https://github.com/nephx-dev/estella-chart-editor-site/releases/latest/download/EstellaChartEditor-Linux-x86_64.tar.gz)** · **[Join the community](https://discord.gg/P3T6wbXpkG)**
 
 ## Features
 
@@ -17,7 +17,7 @@ You need your own Estella installation. Direct Test in game is currently support
 
 ## About this repository
 
-This repository contains only the public promotional website and documentation. It does not contain the editor's application source code or game files. Downloads and updates are provided through itch.io.
+This repository contains only the public promotional website and documentation. It does not contain the editor's application source code or game files. Compiled Windows and Linux packages are attached to GitHub Releases. Windows automatic updates download verified packages directly from GitHub.
 
 This editor is developed by the community. Not affiliated with Imanity Co., Ltd.
 
